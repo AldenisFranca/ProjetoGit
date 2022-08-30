@@ -13,4 +13,5 @@ Olá, esse projeto ensina você a usar o git.
 11 - git push origin main (envia os arquivos e/ou alterações a partir da 2ª vez, pois já foi criada a ligação do remote com o github.
 12 - git checkout -b "nome_da_branch" (cria uma nova branch e seta o terminal para trabalhar nela).
 13 - git checkout main (setar para trabalhar na main).
-14 - 
+14 - git merge NOME_DA_BRANCH
+
