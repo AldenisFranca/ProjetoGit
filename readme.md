@@ -14,4 +14,9 @@ Olá, esse projeto ensina você a usar o git.
 12 - git checkout -b "nome_da_branch" (cria uma nova branch e seta o terminal para trabalhar nela).
 13 - git checkout main (setar para trabalhar na main).
 14 - git merge NOME_DA_BRANCH
-
+15 - git clone LINK_DO_REPOSITÓRIO (puxa qualquer repositório público para sua máquina local)
+16 - cd NOME_DA_PASTA (para acessar a pasta onde está o novo repositório localmente)
+17 - git pull (caso tenha ocorrido alguma alteração no repositório no github e queira trazer para a máquina local)
+18 - fork (isso se faz direto no github: criar/copiar um repositório para o seu github a partir do de outra pessoa)
+19 - pull request (enviar uma sugestão de alteração para uma pessoa a partir das alterações que você realizou no arquivo forkeado dele)
+20 - Para o pull request, após commitar as alterações, no próprio github vai em Contribute -> Open pull request
